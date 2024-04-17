@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;  
+    background-image:url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NmenBkcnZwNHI1ZzhhbDVpZnIzc3p3eGIzMTNhOXNjdzZ1cTNibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QB4zdPGLo2mEFg8bot/giphy.gif');
+  background-repeat: no-repeat;
+  
+  background-attachment: fixed;
+  background-size: cover;
+}                                                                                       
+    
+
+.calc {
+    margin: 250px;
+    padding: 40px;
+   
+}
